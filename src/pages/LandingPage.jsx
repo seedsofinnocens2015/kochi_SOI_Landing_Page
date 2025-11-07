@@ -201,7 +201,7 @@ const LandingPage = () => {
       <section className="relative hidden sm:block w-full min-h-[500px] sm:h-[480px] lg:h-[620px]" aria-label="Hero">
         {/* Background image */}
         <img
-          src="/gads/nov25/kochi/Images/Banner.webp"
+          src="/gads/nov25/kochi/Images/Kochi-Banner.webp"
           alt="Happy family banner"
           className="absolute inset-0 h-[480px] sm:h-[620px] w-full object-cover"
         />
@@ -843,7 +843,7 @@ const LandingPage = () => {
             {/* Building image */}
             <div className="w-full max-w-xl flex-shrink-0">
               <img
-                src="/gads/nov25/kochi/Images/Untitled-2 1.webp"
+                src="/gads/nov25/kochi/Images/Kochi1.webp"
                 alt="Seeds of Innocens IVF Centre kochi building"
                 className="rounded-sm w-full h-auto object-cover shadow"
                 loading="lazy"
