@@ -885,7 +885,7 @@ const LandingPage = () => {
                       />
 
                       <div className="absolute inset-0 flex flex-col items-center justify-center gap-4 bg-black/50 opacity-0 group-hover:opacity-100 group-focus-within:opacity-100 transition-all duration-300 px-6 text-center">
-                        <p className="text-white text-[12px] leading-6">
+                        <p className="text-white text-[20px] leading-6">
                           {center.address}
                         </p>
                         <a
