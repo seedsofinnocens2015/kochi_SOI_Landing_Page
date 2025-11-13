@@ -189,7 +189,7 @@ const LandingPage = () => {
         <section className="relative hidden sm:block w-full min-h-[500px] sm:h-[480px] lg:h-[620px]" aria-label="Hero">
           {/* Background image */}
           <img
-            src="/gads/nov25/kochi/Images/Kochi-Banner.webp"
+            src="/gads/nov25/kochi/Images/Kochi1.webp"
             alt="Happy family banner"
             className="absolute inset-0 h-[480px] sm:h-[620px] w-full object-cover"
           />
@@ -395,7 +395,7 @@ const LandingPage = () => {
             </h2>
             {/* Doctors - Mobile 2 Rows Grid */}
             <div className="sm:hidden mt-4">
-              <div className="grid grid-cols-2 gap-3">
+              <div className="grid grid-cols-3 gap-3">
                 {doctors.map((doc) => (
                   <div
                     key={doc.name}
@@ -813,7 +813,7 @@ const LandingPage = () => {
               {/* Building image */}
               <div className="w-full max-w-xl flex-shrink-0">
                 <img
-                  src="/gads/nov25/kochi/Images/Kochi1.webp"
+                  src="/gads/nov25/kochi/Images/Kochi.webp"
                   alt="Seeds of Innocens IVF Centre Kochi building"
                   className="rounded-sm w-full max-h-[450px] object-contain"
                   loading="lazy"

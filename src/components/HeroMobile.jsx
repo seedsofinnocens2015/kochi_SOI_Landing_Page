@@ -5,7 +5,7 @@ const HeroMobile = () => (
   <section className="block sm:hidden w-full pb-7 relative">
     {/* Hero image */}
     <img
-      src="/gads/nov25/kochi/Images/Kochi-Banner-phone.webp"
+      src="/gads/nov25/kochi/Images/Kochi2.webp"
       alt="Happy family banner"
       className="w-full h-[240px] object-cover"
       loading="lazy"
